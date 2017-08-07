@@ -1,0 +1,1 @@
+INSERT INTO `world` (`uuid`, `name`, `map`) VALUES (0x18e61ac33a8ccd1c54c510bf47892acb, 'My Stratis Server', 'Stratis')

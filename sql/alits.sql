@@ -1,0 +1,1 @@
+INSERT INTO `world`(`uuid`, `name`, `map`) VALUES (0x11e65ac32a4ccd1c82c511bf48983acf, 'My Altis Server', 'Altis')
